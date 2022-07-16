@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.ufg.inf.classes"},{"l":"br.ufg.inf.enums"},{"l":"br.ufg.inf.interfaces"}];updateSearchResults();
